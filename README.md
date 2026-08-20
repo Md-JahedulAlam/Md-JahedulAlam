@@ -101,7 +101,6 @@ class Developer:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-JahedulAlam&layout=compact&hide_border=true" />
 </p>
 
-> If the stats cards above look empty, it's usually the free Vercel-hosted stats API being overloaded — refresh, or open the README directly on GitHub rather than a preview.
 
 ---
 
