@@ -5,7 +5,7 @@
 <h3 align="center">Backend-first. Builds it right, ships it clean.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Django+%2B+FastAPI+on+the+backend;Bootstrap+on+the+frontend;Docker+%2B+CI%2FCD+for+shipping;Currently+building+an+e-library+platform" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Django+%2B+FastAPI+on+the+backend;Bootstrap+%2B+Tailwind+on+the+frontend;Docker+%2B+CI%2FCD+for+shipping;Debugging+at+2am%2C+shipping+by+morning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,15 +21,13 @@ class Developer:
     def __init__(self):
         self.name = "Md Jahedul Alam"
         self.role = "Web Developer"
-        self.stack = ["Django", "FastAPI", "Bootstrap", "Docker"]
-        self.currently_building = [
-            "E-library ecommerce platform (Django, Bengali UI)",
-            "AI Learning Hub (FastAPI backend)"
-        ]
-        self.side_interest = "Breeding lovebirds — genetics, phenotypes, the whole thing"
+        self.stack = ["Django", "FastAPI", "Bootstrap", "Tailwind", "Docker"]
+        self.philosophy = "If it's not containerized, it's not done."
 
-    def say_hi(self):
-        return "Feel free to check out what I'm shipping below 👇"
+    def debug(self, bug):
+        while bug.exists():
+            bug = self.stare_at_terminal(bug)
+        return "shipped 🚀"
 ```
 
 ---
@@ -84,6 +82,14 @@ class Developer:
 
 ---
 
+### // trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=md-jahedulalam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 ### // stats
 
 <p align="center">
@@ -94,6 +100,8 @@ class Developer:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-jahedulalam&layout=compact&hide_border=true" />
 </p>
+
+> If the stats cards above look empty, it's usually the free Vercel-hosted stats API being overloaded — refresh, or open the README directly on GitHub rather than a preview.
 
 ---
 
