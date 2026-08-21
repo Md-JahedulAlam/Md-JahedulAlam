@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Md-JahedulAlam&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=md-jahedulalam&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -23,6 +23,7 @@ class Developer:
         self.role = "Web Developer"
         self.stack = ["Django", "FastAPI", "Bootstrap", "Tailwind", "Docker"]
         self.philosophy = "If it's not containerized, it's not done."
+        self.side_interest = "Breeding lovebirds — genetics, phenotypes, the whole thing"
 
     def debug(self, bug):
         while bug.exists():
@@ -85,7 +86,7 @@ class Developer:
 ### // trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Md-JahedulAlam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=md-jahedulalam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -93,14 +94,15 @@ class Developer:
 ### // stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-JahedulAlam&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-JahedulAlam&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=md-jahedulalam&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahedulalam&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-JahedulAlam&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-jahedulalam&layout=compact&hide_border=true" />
 </p>
 
+> If the stats cards above look empty, it's usually the free Vercel-hosted stats API being overloaded — refresh, or open the README directly on GitHub rather than a preview.
 
 ---
 
