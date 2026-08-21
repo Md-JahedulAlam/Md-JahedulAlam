@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=md-jahedulalam&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Md-JahedulAlam&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -21,9 +21,8 @@ class Developer:
     def __init__(self):
         self.name = "Md Jahedul Alam"
         self.role = "Web Developer"
-        self.stack = ["Django", "FastAPI", "Bootstrap", "Tailwind", "Docker"]
+        self.stack = ["Django", "FastAPI", "C", "C++", "Java", "PostgreSQL", "MySQL", "Docker"]
         self.philosophy = "If it's not containerized, it's not done."
-        self.side_interest = "Breeding lovebirds — genetics, phenotypes, the whole thing"
 
     def debug(self, bug):
         while bug.exists():
@@ -45,6 +44,26 @@ class Developer:
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+**Problem Solving**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </td>
 <td valign="top" width="50%">
@@ -86,7 +105,7 @@ class Developer:
 ### // trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=md-jahedulalam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-JahedulAlam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -94,12 +113,12 @@ class Developer:
 ### // stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=md-jahedulalam&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=md-jahedulalam&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-JahedulAlam&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-JahedulAlam&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-jahedulalam&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-JahedulAlam&layout=compact&hide_border=true" />
 </p>
 
 > If the stats cards above look empty, it's usually the free Vercel-hosted stats API being overloaded — refresh, or open the README directly on GitHub rather than a preview.
