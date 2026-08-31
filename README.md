@@ -116,15 +116,14 @@ class Developer:
 ### // stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-taupe-sigma-31.vercel.app/api?username=Md-JahedulAlam&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-blond-94.vercel.app/api?username=Md-JahedulAlam&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-JahedulAlam&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-taupe-sigma-31.vercel.app/api/top-langs/?username=Md-JahedulAlam&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-blond-94.vercel.app/api/top-langs/?username=Md-JahedulAlam&layout=compact&hide_border=true" />
 </p>
 
-> If the stats cards above look empty, it's usually the free Vercel-hosted stats API being overloaded — refresh, or open the README directly on GitHub rather than a preview.
 
 ---
 
