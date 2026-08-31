@@ -108,9 +108,8 @@ class Developer:
 ### // trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Md-JahedulAlam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <img src="./trophies.svg" alt="Achievement badges" />
 </p>
-
 ---
 
 ### // stats
