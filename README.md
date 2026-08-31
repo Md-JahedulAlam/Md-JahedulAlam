@@ -108,7 +108,7 @@ class Developer:
 ### // trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Md-JahedulAlam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <img src="https://github.com/anuraghazra/github-readme-stats/?username=Md-JahedulAlam&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -116,12 +116,12 @@ class Developer:
 ### // stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Md-JahedulAlam&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github.com/anuraghazra/github-readme-stats/api?username=Md-JahedulAlam&show_icons=true&theme=default&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-JahedulAlam&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-JahedulAlam&layout=compact&hide_border=true" />
+  <img src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=Md-JahedulAlam&layout=compact&hide_border=true" />
 </p>
 
 
